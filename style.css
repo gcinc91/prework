@@ -1,0 +1,232 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans";
+}
+
+nav {
+  background-color: #c12127;
+  color: rgba(255, 255, 255, 0.8);
+  padding-top: 15px;
+  height: 40px;
+}
+
+nav a {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+}
+
+h1{
+  font-size: 30px;
+}
+
+.top-left {
+  position: absolute;
+}
+
+.top-links {
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+header {
+  background-image: url("images/city-scape.svg");
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  
+}
+
+.logo-npm{
+  margin: 10px;
+  height: 50px;
+  float: left;
+}
+.search{
+  margin: 10px 0 10px 10px;
+  float: left;
+  height: 40px;
+  width: 80%;
+  color: white;
+  background-color: rgb(32, 101, 136);
+  }
+
+  .btn{
+  margin: 10px 10px 10px 0;
+  float: left;
+  height: 40px;
+  width: 3%;
+  background-color: rgb(32, 101, 136);
+  display: block;
+  }
+
+.header-div-2 {
+  position: relative;
+  top: 50px;
+  left: -300px;
+  width: 27%;
+  margin: 0 auto;
+  color: White;
+}
+
+.btn-orange {
+  color: white;
+  border: 12px solid rgb(240, 146, 51);
+  background-color: rgb(240, 146, 51);
+  font-size: 15px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.section-1 {
+  background-color: rgb(39, 53, 71);
+  margin: 0 auto;
+  width: 100%;
+}
+
+.colaboration-image{
+  float: left;
+  width: 30%;
+  margin: 150px 0 150px 150px;
+  padding: 20px;
+}
+
+.btn-red{
+  color: white;
+  border: 12px solid rgb(203, 56, 55);
+  background-color: rgb(203, 56, 55);
+  font-size: 15px;
+  text-align: center;
+  border-radius: 20px;
+  margin: 20px 0 0 50px;
+}
+
+h2{
+  width: 40%;
+  font-weight:normal;
+  font-size: 30px;
+}
+
+.list-second-section{
+  margin: 20px 0 0 40px;
+}
+
+li{
+  margin: 10px;
+}
+
+.text-section-1{
+  color: white;
+  width: 50%;
+  float: right;
+  margin: 150px 0;
+  padding: 20px;
+}
+.link-section-1{
+  margin: 0 0 0 50px;
+}
+
+.section-2 {
+  position: relative;
+  background-image: url("images/forklift.svg");
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  width: 100%;
+}
+
+.title-what{
+  font-weight:normal;
+  font-size: 40px;
+  width: 40%;
+}
+
+.text-section-2{
+  color: white;
+  padding: 20px;
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  margin: 30px;
+}
+.paragraph-section-2{
+  margin: 20px 0 0 0;
+  width: 40%;
+}
+
+.btn-gray{
+  color: white;
+  border: 12px solid rgb(49, 68, 88);
+  background-color: rgb(49, 68, 88);
+  font-size: 15px;
+  text-align: center;
+  border-radius: 20px;
+  margin: 20px 0 0 0;
+}
+
+.section-3 {
+  background-color: white;
+  
+}
+
+.text-section-3{
+  margin: 0 auto;
+  width: 60%;
+}
+
+.title-section-3{
+  margin: 0 auto;
+  width: 70%;
+  padding: 50px 0 0 0;
+}
+
+.paragraph-section-3{
+  margin: 0 auto;
+  width: 80%;
+  padding: 15px;
+}
+
+.options{
+  text-align: center;
+  width: 100%;
+  margin: 0 0 20% 0;
+}
+
+.options-1{
+  float: left;
+  width: 33%;
+}
+
+.find-text{
+  margin: 0 auto;
+  width: 50%;
+}
+
+.discover-text{
+  margin: 0 auto;
+  width: 50%;
+}
+
+.build-text{
+  margin: 0 auto;
+  width: 50%;
+}
+
+.links{
+ color: rgb(208, 74, 73)
+}
+
